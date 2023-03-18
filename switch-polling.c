@@ -1,6 +1,4 @@
 // Author : Tomvictor
-//Email   : vjtomvictor@gmail.com
-//Website : www.buildfromzero.com
 //git     : github.com/Tomvictor
 
 #include <msp430.h>
